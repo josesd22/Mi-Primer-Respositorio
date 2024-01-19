@@ -1,0 +1,8 @@
+{
+  "label": "Domain",
+  "position": 2,
+  "link": {
+    "type": "generated-index",
+    "description": "Se utilizan bases en algunas clases para evitar la repetición de variables y lograr un encapsulamiento en las demás clases.."
+  }
+}
